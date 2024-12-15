@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class = "ninan">
+  <view class="title">呢喃图书</view>
+  <image class = "book1" mode="widthFix" src="../../img/s1078958.jpg" ></image>
+  <image class="book2" mode="widthFix" src="../../img/s1106951.jpg"></image>
+  
+</view>
+
+

@@ -1,0 +1,27 @@
+/**index.wxss**/
+Page{
+  text-align: center;
+  font-weight: bold;
+  font-size: x-large;
+}
+
+.title{
+  color: blueviolet;
+}
+
+
+.ninan{
+  position: relative;
+}
+.book1{
+  position: absolute;
+  width: 130px;
+  top: 50px;
+  left: 60px;
+}
+.book2{
+  position: absolute;
+  width: 130px;
+  top: 50px;
+  right: 60px;
+}
